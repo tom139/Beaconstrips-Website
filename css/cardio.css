@@ -548,7 +548,7 @@ section {
 /* Pricing */
 
 #pricing {
-	background: #00a8ff url('../img/pricing1.jpg') no-repeat center center;
+	background: #8b9aaf no-repeat center center;
 	-webkit-background-size: cover;
 	background-size: cover;
 	-webkit-transition: background-image 0.6s linear 0.3s;
@@ -561,6 +561,7 @@ section {
 
 .owl-pricing,
 .pricings {
+	background: #00a8ff;
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
